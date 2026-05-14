@@ -161,3 +161,4 @@ Tools & Platforms:
 - HubSpot
 - AI Integrations
 - Workflow Automation
+![Fiduciary Architecture](https://github.com/webd2276/Fiduciary-Architecture/blob/main/image.png?raw=true)
